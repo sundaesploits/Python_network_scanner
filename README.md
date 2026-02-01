@@ -3,8 +3,8 @@
       simple Network scanner using python
 
 # Make globally available
-    >> sudo chmod +x scannet
-    >> sudo ./scannet -g
+    >> sudo chmod +x install
+    >> sudo ./install 
 
     >> sudo scannet [options]
 
