@@ -3,14 +3,14 @@
       simple Network scanner using python
 
 # Make globally available
-    >> chmod +x scannet
-    >> ./scannet -g
+    >> sudo chmod +x scannet
+    >> sudo ./scannet -g
 
-    >> scannet [options]
+    >> sudo scannet [options]
 
 # Setup
 
-    >> chmod +x scannet
-    >> ./scannet -i [interface] OR ./scannet -r [subnet]
+    >> sudo chmod +x scannet
+    >> sudo ./scannet -i [interface] OR ./scannet -r [subnet]
 
     
