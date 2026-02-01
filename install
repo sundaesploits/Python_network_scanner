@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp ./scannet /usr/local/bin
+echo "done"
