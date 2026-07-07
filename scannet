@@ -84,9 +84,15 @@ else:
         sys.exit(0)
     
     print(f"""{GREEN}
-█▀ █▀▀ ▄▀█ █▄ █ █▄ █ █▀▀ ▀█▀
-▄█ █▄▄ █▀█ █ ▀█ █ ▀█ ██▄  █ 
-github.com/sundaesploits{RESET}""")
+░█████████  ░██     ░██   ░██████     ░██████  
+░██     ░██  ░██   ░██   ░██   ░██   ░██   ░██ 
+░██     ░██   ░██ ░██   ░██         ░██        
+░█████████     ░████     ░████████  ░██        
+░██             ░██             ░██ ░██        
+░██             ░██      ░██   ░██   ░██   ░██ 
+░██             ░██       ░██████     ░██████  
+Python Network Scanner                                            
+github.com/aesthreatics{RESET}""")
     
     
     if interface!=None:
